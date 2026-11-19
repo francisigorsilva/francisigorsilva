@@ -2,83 +2,86 @@
 
 # Igor Silva
 
-**Computer Science Student** · **Developer in Progress** · **Builder**
+### Computer Science Student · Developer in Progress
 
-AI · Automation · Web Development · Software Architecture
+**BUILD · LEARN · INNOVATE**
 
-[![GitHub](https://img.shields.io/badge/GitHub-francisigorsilva-181717?style=flat-square&logo=github)](https://github.com/francisigorsilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Silva-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/igor-silva-149a92401/)
-
-</div>
-
----
-
-### About me / Sobre mim
-
-I'm a Computer Science student focused on building real projects while learning software architecture, automation and AI systems.
-
-I'm not trying to look senior. I'm focused on writing clean code, organizing projects properly, documenting decisions and evolving systems over time.
-
-Sou estudante de Ciência da Computação e desenvolvedor em formação. Meu foco atual está em construir projetos próprios enquanto estudo arquitetura de software, automação e sistemas de IA.
-
----
-
-### What I'm building / O que estou construindo
-
-| Project | Status | Description |
-|---------|--------|-------------|
-| **JARVIS** | 🚧 In Development | AI assistant with modular architecture and memory |
-| **Wall-E** | 🚧 In Development | WhatsApp bot with AI features and group automations |
-| **MS Pedidos** | 🚧 In Development | Automation system for order management |
-| **MirrorLink** | 🧪 Experimental | Device integration experiments |
-| **Bingo Generator** | 📚 Learning Project | Automated bingo card generation |
-| **YouTube Automation** | 🧪 Experimental | Content automation experiments |
-| **igor-cloud** | 🚧 In Development | Personal cloud storage (Next.js + Cloudflare R2) |
-
-These projects are part of my learning path. Most of them are still under active development.
-
----
-
-### Tech Stack
-
-**Currently using / Conhecimento atual**
-
-`JavaScript` `Node.js` `Python` `React` `HTML` `CSS` `Git` `GitHub` `APIs` `PowerShell`
-
-**Exploring / Estudando**
-
-`AI Agents` `Software Architecture` `Automation` `Backend Systems` `Vite`
-
----
-
-### Philosophy
-
-I care more about **architecture, documentation and maintainability** than just making code work.
-
-My goal is to treat personal projects as real systems — with clear structure, intentional decisions and room to evolve.
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
+[![GitHub](https://img.shields.io/badge/GitHub-francisigorsilva-181717?style=for-the-badge&logo=github)](https://github.com/francisigorsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Silva-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-silva-149a92401/)
 
 </div>
 
 ---
 
-### Contact
+### 👋 Olá, eu sou o Igor Silva!
 
-- GitHub: [francisigorsilva](https://github.com/francisigorsilva)
-- LinkedIn: [Igor Silva](https://www.linkedin.com/in/igor-silva-149a92401/)
+Estudante de Ciência da Computação e desenvolvedor em formação, apaixonado por Inteligência Artificial, automação e desenvolvimento de software.
+
+---
+
+### 🚀 O que estou construindo?
+
+Projetos que unem tecnologia, criatividade e propósito. Aqui você encontra meus principais projetos em desenvolvimento:
+
+| Projeto | Status | Descrição |
+|---------|--------|-----------|
+| **JARVIS** | `Em Desenvolvimento` | Assistente de IA com arquitetura modular e memória |
+| **Wall-E** | `Em Desenvolvimento` | Bot de WhatsApp com IA, automações e recursos avançados |
+| **MS Pedidos** | `Em Desenvolvimento` | Automação para organização e gestão de pedidos |
+| **MirrorLink** | `Experimental` | Projeto experimental de integração entre dispositivos |
+| **Bingo Generator** | `Projeto Pessoal` | Geração automatizada de cartelas de bingo |
+| **YouTube Automation** | `Em Desenvolvimento` | Experimentos com automação de conteúdo |
+| **igor-cloud** | `Em Desenvolvimento` | Personal cloud storage com Next.js + Cloudflare R2 |
+
+---
+
+### 🛠️ Tecnologias
+
+**Atualmente usando:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Explorando / Estudando:**
+
+`AI Agents` · `Software Architecture` · `APIs` · `Automation` · `Backend` · `Vite`
+
+---
+
+### 💡 Minha Filosofia
+
+Aprender arquitetura, criar soluções úteis, evoluir constantemente e deixar um impacto positivo através da tecnologia.
+
+Não busco apenas fazer o código funcionar. Busco construir sistemas bem estruturados, documentados e que possam crescer com o tempo.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Contato
+
+- **GitHub**: [francisigorsilva](https://github.com/francisigorsilva)
+- **LinkedIn**: [Igor Silva](https://www.linkedin.com/in/igor-silva-149a92401/)
+- **Email**: igor.silva@proton.me
 
 ---
 
 <div align="center">
 
-*Building in public. Learning by doing.*
+**"Grandes conquistas começam com pequenos passos."**  
+— Igor Silva
 
 </div>
