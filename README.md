@@ -2,14 +2,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,45:21143A,100:6D28D9&height=190&section=header&text=IGOR%20SILVA&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI%20%26%20AUTOMATION&descSize=13&descAlignY=69&animation=fadeIn" />
 
-### SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE · AUTOMATION
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPMENT;ARTIFICIAL+INTELLIGENCE+%26+AUTOMATION;BUILDING+IDEAS+INTO+SYSTEMS" alt="Typing introduction" />
+</p>
 
-*Building ideas into systems. Learning through creation.*
+<p align="center"><i>Building ideas into systems. Learning through creation.</i></p>
 
-<br/>
-
-<a href="https://github.com/francisigorsilva"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/igor-silva-149a92401/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/francisigorsilva"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/igor-silva-149a92401/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -17,19 +19,36 @@
 
 ## 01 · PROFILE | PERFIL
 
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### ABOUT ME · SOBRE MIM
+
 **EN**
 
-I'm a Computer Science student focused on software development, artificial intelligence, automation and the engineering behind modern technological systems.
-
-I build independent projects to turn ideas into practical systems, explore architectures, integrate technologies and develop real-world problem-solving skills.
+I'm a Computer Science student interested in software development, artificial intelligence and automation. I use independent projects to explore technical ideas, understand system architecture and turn concepts into practical solutions.
 
 **PT**
 
-Sou estudante de Ciência da Computação, com foco em desenvolvimento de software, inteligência artificial, automação e na engenharia por trás dos sistemas tecnológicos modernos.
+Sou estudante de Ciência da Computação, interessado em desenvolvimento de software, inteligência artificial e automação. Utilizo projetos independentes para explorar ideias técnicas, compreender arquiteturas e transformar conceitos em soluções práticas.
 
-Desenvolvo projetos independentes para transformar ideias em sistemas práticos, explorar arquiteturas, integrar tecnologias e desenvolver experiência real na resolução de problemas.
+</td>
+<td width="44%" valign="top">
 
-### CURRENT FOCUS | FOCO ATUAL
+### CURRENT FOCUS · FOCO ATUAL
+
+- Artificial Intelligence & AI Agents
+- Backend Development & APIs
+- Automation & Integrations
+- Software Architecture
+- Persistent Memory Systems
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <div align="center">
 
