@@ -125,7 +125,7 @@ Projeto de automação de processos para organizar solicitações de serviços g
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ONLY%20IGOR%20CLOUD%20IS%20PUBLICLY%20AVAILABLE-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONLY-IGOR-CLOUD-IS-AVAILABLE-AS-A-PUBLIC-PROJECT-REPOSITORY-238636?style=flat-square"/>
 
 </div>
 
