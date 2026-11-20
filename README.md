@@ -40,6 +40,7 @@ Meus principais interesses incluem aplicações com IA, automação, desenvolvim
 
 ---
 
+
 ## 02 · SELECTED PROJECTS | PROJETOS EM DESTAQUE
 
 <div align="center">
@@ -58,7 +59,7 @@ Meus principais interesses incluem aplicações com IA, automação, desenvolvim
 
 **Personal AI Assistant**
 
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
 An AI assistant project focused on modular architecture, conversational interaction and persistent memory.
 
@@ -73,7 +74,7 @@ Projeto de assistente de IA com foco em arquitetura modular, interação convers
 
 **WhatsApp Automation**
 
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
 A WhatsApp automation project combining group management, interactive commands, AI integration and personalized features.
 
@@ -86,10 +87,11 @@ Projeto de automação para WhatsApp que reúne gerenciamento de grupos, comando
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Igor Cloud
+### ◈ [Igor Cloud](https://github.com/francisigorsilva/igor-cloud)
 
 **Personal Cloud Storage**
 
+<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORY-238636?style=flat-square"/>
 <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
 A personal cloud storage project exploring file management, storage architecture and secure access.
@@ -103,7 +105,7 @@ Projeto de armazenamento pessoal em nuvem que explora gerenciamento de arquivos,
 
 **Graphics Workflow Automation**
 
-<img src="https://img.shields.io/badge/PLANNING%20%26%20DEVELOPMENT-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
 A workflow automation project designed to organize graphic design requests, quotations and order management.
 
@@ -115,11 +117,17 @@ Projeto de automação de processos para organizar solicitações de serviços g
 
 ### OTHER PROJECTS | OUTROS PROJETOS
 
-| Project | Description |
-|:--|:--|
-| MirrorLink | Device communication and integration · Comunicação e integração entre dispositivos |
-| Bingo Generator | Automated bingo card generation · Geração automatizada de cartelas de bingo |
-| YouTube Automation | Content creation workflow automation · Automação de processos de criação de conteúdo |
+| Project | Description | Availability |
+|:--|:--|:--|
+| MirrorLink | Device communication and integration · Comunicação e integração entre dispositivos | Local development |
+| Bingo Generator | Automated bingo card generation · Geração automatizada de cartelas de bingo | Local development |
+| YouTube Automation | Content creation workflow automation · Automação de processos de criação de conteúdo | Local development |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ONLY%20IGOR%20CLOUD%20IS%20PUBLICLY%20AVAILABLE-238636?style=flat-square"/>
+
+</div>
 
 ---
 
