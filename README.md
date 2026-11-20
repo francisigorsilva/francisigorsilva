@@ -1,233 +1,110 @@
-<!-- ========================================================= --><!--                    IGOR SILVA — PROFILE                    --><!-- ========================================================= --><div align="center"><img src="./assets/banner.png" width="100%" alt="Igor Silva — Computer Science Student"><br><a href="https://github.com/francisigorsilva">
-<img src="https://img.shields.io/badge/GitHub-francisigorsilva-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<div align="center">IGOR SILVA
+
+Computer Science Student · Developer in Progress
+
+Artificial Intelligence · Automation · Software Development
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+software;Learning+by+creating+real+projects;Exploring+AI%2C+automation+and+software" alt="Typing animation" /><br/><a href="https://github.com/francisigorsilva">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-<img src="https://img.shields.io/badge/LinkedIn-Igor%20Silva-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Developer+in+Progress;Artificial+Intelligence;Automation+%26+Software+Development;Building+ideas+into+software" alt="Typing SVG"></div>---
-
-<table>
-<tr><td width="58%" valign="top">👋 Olá, eu sou o Igor
-
-Sou estudante de Ciência da Computação e desenvolvedor em formação.
-
-Estou construindo minha experiência através de projetos próprios, estudos práticos e experimentação, principalmente nas áreas de:
-
-- 🤖 Inteligência Artificial
-- ⚙️ Automação
-- 🌐 Desenvolvimento Web
-- 🔌 APIs e integrações
-- 🧠 Arquitetura de software
-- 🛠️ Ferramentas e sistemas próprios
-
-Meu objetivo não é apenas escrever código que funciona.
-
-Quero aprender a projetar, construir, testar, documentar e evoluir sistemas reais.
-
-<br>«Build. Learn. Innovate.»
-
-</td><td width="42%" valign="top">🧠 Atualmente
-
-┌──────────────────────────┐
-│                          │
-│  🎓 Ciência da Computação│
-│                          │
-│  🤖 Inteligência Artificial│
-│                          │
-│  ⚙️ Automação             │
-│                          │
-│  🌐 Desenvolvimento Web   │
-│                          │
-│  🔌 APIs & Backend        │
-│                          │
-│  🧠 Arquitetura           │
-│                          │
-└──────────────────────────┘
-
-📍 Brasil
-
-🚧 Sempre construindo
-
-</td></tr>
-</table>---
-
-🚀 O que estou construindo
-
-Projetos próprios que unem tecnologia, criatividade e resolução de problemas.
-
-<table>
-<tr><td width="50%" valign="top">🤖 JARVIS
-
-Assistente de IA com arquitetura modular, interface própria e sistema de memória.
-
-Stack: JavaScript · Node.js · React · Vite
-
-Status: "🚧 Em desenvolvimento"
-
-</td><td width="50%" valign="top">🤖 Wall-E
-
-Bot para WhatsApp com IA, automações, música, gerenciamento de grupos e outros recursos.
-
-Stack: Node.js · Baileys · APIs
-
-Status: "🚧 Em desenvolvimento"
-
-</td></tr><tr><td width="50%" valign="top">📦 MS Pedidos
-
-Projeto de automação voltado para organização e gestão de pedidos.
-
-Status: "🚧 Em desenvolvimento"
-
-</td><td width="50%" valign="top">📱 MirrorLink
-
-Experimento de integração e comunicação entre dispositivos.
-
-Status: "🧪 Experimental"
-
-</td></tr><tr><td width="50%" valign="top">🎲 Bingo Generator
-
-Ferramenta para geração automatizada de cartelas.
-
-Status: "🧪 Experimental"
-
-</td><td width="50%" valign="top">▶️ YouTube Automation
-
-Experimentos com automação de processos relacionados à criação de conteúdo.
-
-Status: "🧪 Experimental"
-
-</td></tr>
-</table>---
-
-💻 Tech Stack
-
-<div align="center">Languages
-
-<img src="https://skillicons.dev/icons?i=js,python&theme=dark" />Web & Runtime
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,vite,html,css&theme=dark" />Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,powershell,vscode&theme=dark" />Areas
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7B2CBF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation-6A0DAD?style=for-the-badge">
-<img src="https://img.shields.io/badge/APIs-5A189A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Software%20Architecture-3C096C?style=for-the-badge"></div>---
-
-⭐ Projetos em destaque
-
-<div align="center"><a href="https://github.com/francisigorsilva">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=francisigorsilva&repo=JARVIS&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF" width="48%">
-</a><a href="https://github.com/francisigorsilva">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=francisigorsilva&repo=wall-e&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF" width="48%">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a></div>---
 
-📊 GitHub Analytics
+01 / ABOUT ME
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9"></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=francisigorsilva&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"></div>---
+Sou estudante de Ciência da Computação e desenvolvedor em formação. Utilizo projetos próprios como parte do meu processo de aprendizagem, explorando tecnologias e construindo soluções práticas.
 
-🧩 Como estou evoluindo
+Tenho interesse em compreender não apenas como desenvolver aplicações, mas também como estruturar, integrar, documentar e manter sistemas.
 
-<table>
-<tr><td width="33%" align="center">🧠 Aprender
+Áreas de interesse
 
-Estudar fundamentos, ferramentas e novas tecnologias.
-
-</td><td width="33%" align="center">🛠️ Construir
-
-Transformar conhecimento em projetos reais.
-
-</td><td width="33%" align="center">🚀 Evoluir
-
-Refatorar, documentar e melhorar continuamente.
-
-</td></tr>
-</table>---
-
-🎯 Minha direção
-
-Quero evoluir de projetos experimentais para software cada vez mais estruturado, documentado e confiável.
-
-Estou construindo conhecimento em:
-
-Artificial Intelligence
-        ↓
-Agents & Memory
-        ↓
-APIs & Backend
-        ↓
-Automation
-        ↓
-Web Development
-        ↓
-Software Architecture
-        ↓
-Real-world Software
-
-Não tenho a intenção de parecer um especialista antes da hora.
-
-Prefiro mostrar o que estou construindo, o que estou aprendendo e como estou evoluindo.
+- Inteligência Artificial e agentes
+- Automação e integração de sistemas
+- Desenvolvimento Web
+- Backend e APIs
+- Arquitetura de software
+- Ferramentas e aplicações próprias
 
 ---
 
-🌱 Em construção
+02 / WHAT I'M BUILDING
 
-Este perfil também é um registro da minha evolução.
+Projetos independentes em diferentes estágios de desenvolvimento.
 
-Alguns projetos estarão incompletos.
+Projeto| Descrição| Estado
+JARVIS| Assistente de IA com interface própria, arquitetura modular e desenvolvimento de memória.| 🚧
+Wall-E| Bot para WhatsApp com recursos de IA, automação e gerenciamento de grupos.| 🚧
+MS Pedidos| Projeto de automação para organização e gestão de pedidos.| 🚧
+MirrorLink| Experimento de integração e comunicação entre dispositivos.| 🧪
+Bingo Generator| Ferramenta para geração automatizada de cartelas de bingo.| 🧪
+YouTube Automation| Experimentos com automação de processos de criação de conteúdo.| 🧪
 
-Alguns serão experimentais.
-
-Alguns talvez sejam abandonados.
-
-E outros serão levados até o fim.
-
-Isso faz parte do processo.
-
-«Cada projeto é uma tentativa.
-Cada erro é uma aula.
-Cada projeto concluído é um passo adiante.»
+<sub>🚧 Em desenvolvimento · 🧪 Experimental</sub>
 
 ---
 
-📚 Atualmente estudando
+03 / TECHNOLOGY
 
-<div align="center">Área| Foco
-🤖 IA| Agentes, integração de modelos e sistemas inteligentes
-🧠 Arquitetura| Organização, modularidade e escalabilidade
-⚙️ Automação| Processos, bots e integrações
-🌐 Web| Frontend, backend e APIs
-🐍 Python| Desenvolvimento e automação
-🟨 JavaScript| Node.js, aplicações e ferramentas
-🔧 Git| Versionamento e colaboração
+<div align="center">LANGUAGES & RUNTIME
 
-</div>---
+<img src="https://skillicons.dev/icons?i=javascript,python,nodejs&theme=dark" alt="JavaScript, Python and Node.js"/><br/><br/>
 
-🧭 Filosofia
+WEB DEVELOPMENT
 
-<div align="center">"BUILD → TEST → LEARN → IMPROVE → REPEAT"
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/><br/><br/>
 
-<br>Não quero apenas fazer funcionar.
+TOOLS & ENVIRONMENT
 
-Quero entender por que funciona, descobrir onde pode melhorar e transformar uma ideia em algo que realmente possa ser utilizado.
+<img src="https://skillicons.dev/icons?i=git,github,powershell,vscode&theme=dark" alt="Git, GitHub, PowerShell and VS Code"/></div>Current learning interests: AI agents, APIs, backend development, software architecture and automation.
 
-</div>---
+---
 
-🌎 Conecte-se comigo
+04 / GITHUB ANALYTICS
 
 <div align="center"><a href="https://github.com/francisigorsilva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a><a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a></div>---
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/francisigorsilva">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
+</a><br/><br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=footer">🌙
+<img src="https://streak-stats.demolab.com?user=francisigorsilva&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/></div>---
 
-«"Grandes conquistas começam com pequenos passos."»
+05 / DEVELOPMENT PRINCIPLES
+
+<div align="center">PRINCIPLE| APPROACH
+Understand| Learn the foundations before relying on abstractions.
+Build| Turn ideas and knowledge into practical projects.
+Improve| Review, test and refine implementations.
+Document| Make projects understandable and maintainable.
+Complete| Work toward delivering usable results.
+
+<br/>BUILD → TEST → LEARN → IMPROVE
+
+</div>---
+
+06 / CURRENT DIRECTION
+
+Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo fundamentos de programação e aprendendo a construir sistemas cada vez mais organizados e confiáveis.
+
+Não apresento projetos experimentais como produtos finalizados nem conhecimento em desenvolvimento como especialização.
+
+Este perfil representa meu trabalho, meus estudos e minha evolução.
+
+---
+
+07 / CONNECT
+
+<div align="center"><a href="https://github.com/francisigorsilva">
+  <img src="https://img.shields.io/badge/GitHub-francisigorsilva-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/igor-silva-149a92401/">
+  <img src="https://img.shields.io/badge/LinkedIn-Igor_Silva-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
+</a><br/><br/>
+
+<sub>Building with curiosity. Improving with every project.</sub>
 
 Igor Silva
 
-"Computer Science Student · Developer in Progress"
-
-</div><!-- ========================================================= --><!--                    END OF PROFILE                         --><!-- ========================================================= -->
+</div>
