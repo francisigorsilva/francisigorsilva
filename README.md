@@ -118,6 +118,8 @@ Personal cloud storage project exploring file management, storage architecture a
 
 Projeto de armazenamento pessoal em nuvem que explora gerenciamento de arquivos, arquitetura de armazenamento e acesso seguro.
 
+**Project docs:** [Architecture](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/ARCHITECTURE.md) · [Technical Research](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/TECHNICAL_RESEARCH.md) · [Requirements](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/REQUIREMENTS.md) · [Threat Model](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/THREAT_MODEL.md)
+
 </td>
 <td width="50%" valign="top">
 
