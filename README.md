@@ -1,53 +1,56 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:100A18,45:21143A,100:512B83&height=180&section=header&text=IGOR%20SILVA&fontSize=48&fontColor=FFFFFF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=68&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,45:21143A,100:6D28D9&height=190&section=header&text=IGOR%20SILVA&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI%20%26%20AUTOMATION&descSize=13&descAlignY=69&animation=fadeIn" />
 
-### ARTIFICIAL INTELLIGENCE · AUTOMATION · SOFTWARE ENGINEERING
+### SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE · AUTOMATION
 
 *Building ideas into systems. Learning through creation.*
 
 <br/>
 
-<a href="https://github.com/francisigorsilva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/francisigorsilva"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/igor-silva-149a92401/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 01 · ABOUT ME | SOBRE MIM
+## 01 · PROFILE | PERFIL
 
 **EN**
 
-I'm a Computer Science student interested in software development, artificial intelligence and the engineering behind modern technological systems.
+I'm a Computer Science student focused on software development, artificial intelligence, automation and the engineering behind modern technological systems.
 
-I use independent projects as a practical environment to explore programming, experiment with architectures, integrate technologies and transform ideas into functional solutions.
-
-My current interests include AI-powered applications, automation, backend development, APIs and software architecture.
+I build independent projects to turn ideas into practical systems, explore architectures, integrate technologies and develop real-world problem-solving skills.
 
 **PT**
 
-Sou estudante de Ciência da Computação, interessado em desenvolvimento de software, inteligência artificial e na engenharia por trás dos sistemas tecnológicos modernos.
+Sou estudante de Ciência da Computação, com foco em desenvolvimento de software, inteligência artificial, automação e na engenharia por trás dos sistemas tecnológicos modernos.
 
-Utilizo projetos independentes como ambiente prático para explorar programação, experimentar arquiteturas, integrar tecnologias e transformar ideias em soluções funcionais.
+Desenvolvo projetos independentes para transformar ideias em sistemas práticos, explorar arquiteturas, integrar tecnologias e desenvolver experiência real na resolução de problemas.
 
-Meus principais interesses incluem aplicações com IA, automação, desenvolvimento backend, APIs e arquitetura de software.
+### CURRENT FOCUS | FOCO ATUAL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-4C1D95?style=for-the-badge"/>
+
+</div>
 
 ---
-
 
 ## 02 · SELECTED PROJECTS | PROJETOS EM DESTAQUE
 
 <div align="center">
 
-*Building practical solutions through independent development.*
+*Independent projects. Practical experimentation. Continuous improvement.*
 
-*Construindo soluções práticas por meio do desenvolvimento independente.*
+*Projetos independentes. Experimentação prática. Melhoria contínua.*
 
 </div>
 
@@ -61,11 +64,11 @@ Meus principais interesses incluem aplicações com IA, automação, desenvolvim
 
 <img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
-An AI assistant project focused on modular architecture, conversational interaction and persistent memory.
+AI assistant project focused on modular architecture, conversational interaction and persistent memory.
 
 Projeto de assistente de IA com foco em arquitetura modular, interação conversacional e memória persistente.
 
-**Technologies:** Node.js · React · Vite
+**Stack:** Node.js · React · Vite
 
 </td>
 <td width="50%" valign="top">
@@ -76,11 +79,11 @@ Projeto de assistente de IA com foco em arquitetura modular, interação convers
 
 <img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
-A WhatsApp automation project combining group management, interactive commands, AI integration and personalized features.
+WhatsApp automation project combining group management, interactive commands, AI integration and personalized features.
 
 Projeto de automação para WhatsApp que reúne gerenciamento de grupos, comandos interativos, integração com IA e funcionalidades personalizadas.
 
-**Technologies:** Node.js · Baileys
+**Stack:** Node.js · Baileys
 
 </td>
 </tr>
@@ -94,7 +97,7 @@ Projeto de automação para WhatsApp que reúne gerenciamento de grupos, comando
 <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORY-238636?style=flat-square"/>
 <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
-A personal cloud storage project exploring file management, storage architecture and secure access.
+Personal cloud storage project exploring file management, storage architecture and secure access.
 
 Projeto de armazenamento pessoal em nuvem que explora gerenciamento de arquivos, arquitetura de armazenamento e acesso seguro.
 
@@ -107,7 +110,7 @@ Projeto de armazenamento pessoal em nuvem que explora gerenciamento de arquivos,
 
 <img src="https://img.shields.io/badge/LOCAL%20DEVELOPMENT-8B5CF6?style=flat-square"/>
 
-A workflow automation project designed to organize graphic design requests, quotations and order management.
+Workflow automation project designed to organize graphic design requests, quotations and order management.
 
 Projeto de automação de processos para organizar solicitações de serviços gráficos, orçamentos e gerenciamento de pedidos.
 
@@ -131,7 +134,7 @@ Projeto de automação de processos para organizar solicitações de serviços g
 
 ---
 
-## 03 · TECHNOLOGY STACK | TECNOLOGIAS
+## 03 · TECHNOLOGY | TECNOLOGIAS
 
 <div align="center">
 
@@ -144,30 +147,6 @@ Projeto de automação de processos para organizar solicitações de serviços g
 ### DEVELOPMENT ENVIRONMENT | AMBIENTE DE DESENVOLVIMENTO
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,vite,git,github,powershell,vscode" />
-
-</div>
-
-### AREAS OF INTEREST | ÁREAS DE INTERESSE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Backend%20Development-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Architecture-4C1D95?style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
-*Technology is a tool. Understanding how to use it is the real skill.*
-
-*A tecnologia é uma ferramenta. Entender como utilizá-la é a verdadeira habilidade.*
 
 </div>
 
@@ -189,7 +168,7 @@ Projeto de automação de processos para organizar solicitações de serviços g
 </td>
 <td width="33%" valign="top">
 
-### BACKEND DEVELOPMENT
+### BACKEND & INTEGRATIONS
 
 - Programming logic
 - Backend development
@@ -212,9 +191,13 @@ Projeto de automação de processos para organizar solicitações de serviços g
 
 ### MY APPROACH | MINHA ABORDAGEM
 
-I believe consistent learning, experimentation and practical projects are essential to becoming a better developer.
+I believe strong software is built through curiosity, planning, experimentation and continuous improvement.
 
-Acredito que aprendizado constante, experimentação e projetos práticos são essenciais para me tornar um desenvolvedor melhor.
+Acredito que bons softwares são construídos por meio da curiosidade, do planejamento, da experimentação e da melhoria contínua.
+
+> **Build. Learn. Improve.**
+>
+> **Construir. Aprender. Evoluir.**
 
 ---
 
@@ -234,23 +217,13 @@ Acredito que aprendizado constante, experimentação e projetos práticos são e
 
 </div>
 
-<div align="center">
-
-*Every contribution is part of the journey.*
-
-*Cada contribuição faz parte da jornada.*
-
-</div>
-
 ---
 
 ## 06 · DEVELOPMENT PHILOSOPHY | FILOSOFIA DE DESENVOLVIMENTO
 
 **EN**
 
-I believe good software is built through curiosity, planning, experimentation and continuous improvement.
-
-My development principles:
+Good software is built through curiosity, planning, experimentation and continuous improvement.
 
 - **Continuous Learning** — Always seeking to understand more.
 - **Problem Solving** — Turning complex challenges into practical solutions.
@@ -260,9 +233,7 @@ My development principles:
 
 **PT**
 
-Acredito que bons softwares são construídos por meio da curiosidade, do planejamento, da experimentação e da melhoria contínua.
-
-Meus princípios de desenvolvimento:
+Bons softwares são construídos por meio da curiosidade, do planejamento, da experimentação e da melhoria contínua.
 
 - **Aprendizado contínuo** — Buscar sempre compreender mais.
 - **Resolução de problemas** — Transformar desafios complexos em soluções práticas.
@@ -282,17 +253,12 @@ Estou sempre aberto a conhecer outros desenvolvedores, trocar conhecimentos, dis
 
 <br/>
 
-<a href="https://github.com/francisigorsilva">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/francisigorsilva"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/igor-silva-149a92401/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512B83,50:21143A,100:100A18&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:21143A,100:080B14&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20IMPROVE&fontSize=20&fontColor=FFFFFF&animation=fadeIn"/>
 
 ### CONSTRUIR · APRENDER · EVOLUIR
 
