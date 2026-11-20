@@ -1,110 +1,192 @@
 <div align="center">IGOR SILVA
 
-Computer Science Student · Developer in Progress
+COMPUTER SCIENCE STUDENT · SOFTWARE DEVELOPER IN PROGRESS
 
-Artificial Intelligence · Automation · Software Development
+Artificial Intelligence · Automation · Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+software;Learning+by+creating+real+projects;Exploring+AI%2C+automation+and+software" alt="Typing animation" /><br/><a href="https://github.com/francisigorsilva">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a></div>---
+Building ideas into systems. Learning through creation.
 
-01 / ABOUT ME
-
-Sou estudante de Ciência da Computação e desenvolvedor em formação. Utilizo projetos próprios como parte do meu processo de aprendizagem, explorando tecnologias e construindo soluções práticas.
-
-Tenho interesse em compreender não apenas como desenvolver aplicações, mas também como estruturar, integrar, documentar e manter sistemas.
-
-Áreas de interesse
-
-- Inteligência Artificial e agentes
-- Automação e integração de sistemas
-- Desenvolvimento Web
-- Backend e APIs
-- Arquitetura de software
-- Ferramentas e aplicações próprias
-
----
-
-02 / WHAT I'M BUILDING
-
-Projetos independentes em diferentes estágios de desenvolvimento.
-
-Projeto| Descrição| Estado
-JARVIS| Assistente de IA com interface própria, arquitetura modular e desenvolvimento de memória.| 🚧
-Wall-E| Bot para WhatsApp com recursos de IA, automação e gerenciamento de grupos.| 🚧
-MS Pedidos| Projeto de automação para organização e gestão de pedidos.| 🚧
-MirrorLink| Experimento de integração e comunicação entre dispositivos.| 🧪
-Bingo Generator| Ferramenta para geração automatizada de cartelas de bingo.| 🧪
-YouTube Automation| Experimentos com automação de processos de criação de conteúdo.| 🧪
-
-<sub>🚧 Em desenvolvimento · 🧪 Experimental</sub>
-
----
-
-03 / TECHNOLOGY
-
-<div align="center">LANGUAGES & RUNTIME
-
-<img src="https://skillicons.dev/icons?i=javascript,python,nodejs&theme=dark" alt="JavaScript, Python and Node.js"/><br/><br/>
-
-WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/><br/><br/>
-
-TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,powershell,vscode&theme=dark" alt="Git, GitHub, PowerShell and VS Code"/></div>Current learning interests: AI agents, APIs, backend development, software architecture and automation.
-
----
-
-04 / GITHUB ANALYTICS
-
-<div align="center"><a href="https://github.com/francisigorsilva">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/francisigorsilva">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
-</a><br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=francisigorsilva&hide_border=true&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/></div>---
-
-05 / DEVELOPMENT PRINCIPLES
-
-<div align="center">PRINCIPLE| APPROACH
-Understand| Learn the foundations before relying on abstractions.
-Build| Turn ideas and knowledge into practical projects.
-Improve| Review, test and refine implementations.
-Document| Make projects understandable and maintainable.
-Complete| Work toward delivering usable results.
-
-<br/>BUILD → TEST → LEARN → IMPROVE
+"GitHub" (https://github.com/francisigorsilva) · "LinkedIn" (https://www.linkedin.com/in/igor-silva-149a92401/)
 
 </div>---
 
-06 / CURRENT DIRECTION
+01. ABOUT ME | SOBRE MIM
 
-Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo fundamentos de programação e aprendendo a construir sistemas cada vez mais organizados e confiáveis.
+EN
 
-Não apresento projetos experimentais como produtos finalizados nem conhecimento em desenvolvimento como especialização.
+I'm a Computer Science student interested in building software, exploring intelligent systems and understanding how technology works beyond the surface.
 
-Este perfil representa meu trabalho, meus estudos e minha evolução.
+I use independent projects as a practical environment to study programming, experiment with architectures, integrate technologies and turn ideas into functional solutions.
+
+My current interests include artificial intelligence, automation, backend development, APIs and software architecture.
+
+PT
+
+Sou estudante de Ciência da Computação, interessado em desenvolvimento de software, sistemas inteligentes e na compreensão de como a tecnologia funciona além da superfície.
+
+Utilizo projetos independentes como ambiente prático para estudar programação, experimentar arquiteturas, integrar tecnologias e transformar ideias em soluções funcionais.
+
+Meus principais interesses são inteligência artificial, automação, desenvolvimento backend, APIs e arquitetura de software.
+
+02. FEATURED PROJECTS | PROJETOS EM DESTAQUE
+
+A selection of projects that represent my interests, technical exploration and ongoing development.
+
+Uma seleção de projetos que representam meus interesses, experimentações técnicas e desenvolvimento contínuo.
+
+◈ JARVIS — Personal AI Assistant
+
+Status: In Development · Em desenvolvimento
+
+EN: A personal AI assistant focused on modular architecture, conversational interaction and persistent memory.
+
+PT: Um assistente pessoal de inteligência artificial com foco em arquitetura modular, interação conversacional e memória persistente.
+
+◈ Wall-E — WhatsApp Automation
+
+Status: In Development · Em desenvolvimento
+
+EN: A WhatsApp automation project combining group management, interactive commands, AI integration and personalized features.
+
+PT: Projeto de automação para WhatsApp que reúne gerenciamento de grupos, comandos interativos, integração com IA e funcionalidades personalizadas.
+
+◈ Igor Cloud — Personal Cloud Storage
+
+Status: In Development · Em desenvolvimento
+
+EN: A personal cloud storage project designed to explore file management, storage architecture and secure access.
+
+PT: Projeto de armazenamento pessoal em nuvem voltado à exploração de gerenciamento de arquivos, arquitetura de armazenamento e acesso seguro.
+
+◈ MS Pedidos — Graphics Workflow Automation
+
+Status: Planning & Development · Planejamento e desenvolvimento
+
+EN: A workflow automation project designed to organize graphic design service requests, budgets and order management.
+
+PT: Projeto de automação de processos para organizar solicitações de serviços gráficos, orçamentos e gerenciamento de pedidos.
 
 ---
 
-07 / CONNECT
+OTHER PROJECTS | OUTROS PROJETOS
 
-<div align="center"><a href="https://github.com/francisigorsilva">
-  <img src="https://img.shields.io/badge/GitHub-francisigorsilva-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/igor-silva-149a92401/">
-  <img src="https://img.shields.io/badge/LinkedIn-Igor_Silva-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
-</a><br/><br/>
+- MirrorLink — Device communication and integration.
 
-<sub>Building with curiosity. Improving with every project.</sub>
+- Bingo Generator — Automated bingo card generation.
 
-Igor Silva
+- YouTube Automation — Tools for automating content creation workflows.
+
+- MirrorLink — Comunicação e integração entre dispositivos.
+
+- Bingo Generator — Geração automatizada de cartelas de bingo.
+
+- YouTube Automation — Ferramentas para automatizar processos de criação de conteúdo.
+
+03. TECH STACK | TECNOLOGIAS
+
+LANGUAGES | LINGUAGENS
+
+- JavaScript
+- Python
+- HTML5
+- CSS3
+
+DEVELOPMENT TOOLS | FERRAMENTAS DE DESENVOLVIMENTO
+
+- Node.js
+- React
+- Vite
+- Git
+- GitHub
+- PowerShell
+- Visual Studio Code
+
+AREAS OF INTEREST | ÁREAS DE INTERESSE
+
+- Artificial Intelligence | Inteligência Artificial
+- AI Agents | Agentes de IA
+- Workflow Automation | Automação de Processos
+- Backend Development | Desenvolvimento Backend
+- APIs & Integrations | APIs e Integrações
+- Software Architecture | Arquitetura de Software
+
+Technology is a tool. Understanding how to use it is the real skill.
+
+A tecnologia é uma ferramenta. Entender como utilizá-la é a verdadeira habilidade.
+
+04. CURRENTLY LEARNING | APRENDIZADO ATUAL
+
+FOCUS AREAS | ÁREAS DE FOCO
+
+Artificial Intelligence & Intelligent Systems
+
+- Exploring AI integration and intelligent applications.
+- Studying AI agents and persistent memory architectures.
+
+Backend & Software Development
+
+- Improving programming logic and backend development.
+- Exploring APIs, integrations and modular architectures.
+
+Software Engineering
+
+- Studying software architecture and project organization.
+- Practicing version control and collaborative development workflows.
+
+---
+
+MY APPROACH | MINHA ABORDAGEM
+
+I believe consistent learning, experimentation and practical projects are essential to becoming a better developer.
+
+Acredito que aprendizado constante, experimentação e projetos práticos são essenciais para me tornar um desenvolvedor melhor.
+
+05. GITHUB ANALYTICS | ESTATÍSTICAS
+
+<div align="center">DEVELOPMENT ACTIVITY
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=francisigorsilva&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&rank_icon=github" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisigorsilva&layout=compact&theme=midnight-purple&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=francisigorsilva&theme=midnight-purple&hide_border=true" /></div>Every contribution is part of the journey.
+
+Cada contribuição faz parte da jornada.
+
+06. DEVELOPMENT PHILOSOPHY | FILOSOFIA DE DESENVOLVIMENTO
+
+I believe that good software is built through curiosity, planning, experimentation and continuous improvement.
+
+I value:
+
+- Continuous Learning — Always seeking to understand more.
+- Problem Solving — Breaking complex challenges into practical solutions.
+- Clean Architecture — Building organized, maintainable and scalable systems.
+- Practical Experience — Learning by creating, testing and improving real projects.
+- Consistency — Progress through discipline, patience and persistence.
+
+---
+
+Acredito que bons softwares são construídos por meio da curiosidade, do planejamento, da experimentação e da melhoria contínua.
+
+Valorizo:
+
+- Aprendizado contínuo — Buscar sempre compreender mais.
+- Resolução de problemas — Transformar desafios complexos em soluções práticas.
+- Arquitetura organizada — Desenvolver sistemas estruturados, sustentáveis e escaláveis.
+- Experiência prática — Aprender criando, testando e aprimorando projetos reais.
+- Consistência — Evoluir por meio da disciplina, paciência e persistência.
+
+07. CONNECT | VAMOS NOS CONECTAR
+
+I'm always open to connecting with developers, exchanging knowledge, discussing ideas and exploring opportunities to collaborate.
+
+Estou sempre aberto a conhecer outros desenvolvedores, trocar conhecimentos, discutir ideias e explorar oportunidades de colaboração.
+
+<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/francisigorsilva)
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/igor-silva-149a92401/)
+
+</div>---
+
+<div align="center">BUILD · LEARN · IMPROVE
+
+Construir · Aprender · Evoluir
 
 </div>
