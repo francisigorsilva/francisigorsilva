@@ -112,11 +112,11 @@ Projeto de automação para WhatsApp que reúne gerenciamento de grupos, comando
 **Personal Cloud Storage**
 
 <img src="https://img.shields.io/badge/PUBLIC%20REPOSITORY-238636?style=flat-square"/>
-<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DOCUMENTATION%20%26%20PLANNING-8B5CF6?style=flat-square"/>
 
-Personal cloud storage project exploring file management, storage architecture and secure access.
+Personal cloud storage project in the documentation and planning stage, exploring file management, storage architecture and secure access.
 
-Projeto de armazenamento pessoal em nuvem que explora gerenciamento de arquivos, arquitetura de armazenamento e acesso seguro.
+Projeto de armazenamento pessoal em nuvem na etapa de documentação e planejamento, explorando gerenciamento de arquivos, arquitetura de armazenamento e acesso seguro.
 
 **Project docs:** [Architecture](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/ARCHITECTURE.md) · [Technical Research](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/TECHNICAL_RESEARCH.md) · [Requirements](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/REQUIREMENTS.md) · [Threat Model](https://github.com/francisigorsilva/igor-cloud/blob/main/docs/THREAT_MODEL.md)
 
