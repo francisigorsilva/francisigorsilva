@@ -91,25 +91,47 @@ YouTube Automation| Content creation workflow automation · Automação de proce
 
 03 · TECHNOLOGY STACK | TECNOLOGIAS
 
-<div align="center">LANGUAGES | LINGUAGENS
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />DEVELOPMENT ENVIRONMENT | AMBIENTE DE DESENVOLVIMENTO
+### LANGUAGES | LINGUAGENS
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,vite,git,github,powershell,vscode" /></div>AREAS OF INTEREST | ÁREAS DE INTERESSE
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
 
-- Artificial Intelligence · Inteligência Artificial
-- AI Agents · Agentes de IA
-- Workflow Automation · Automação de Processos
-- Backend Development · Desenvolvimento Backend
-- APIs & Integrations · APIs e Integrações
-- Software Architecture · Arquitetura de Software
+<br/><br/>
 
-<div align="center">Technology is a tool. Understanding how to use it is the real skill.
+### DEVELOPMENT ENVIRONMENT | AMBIENTE DE DESENVOLVIMENTO
 
-A tecnologia é uma ferramenta. Entender como utilizá-la é a verdadeira habilidade.
+<img src="https://skillicons.dev/icons?i=nodejs,react,vite,git,github,powershell,vscode" />
 
-</div>---
+</div>
 
+---
+
+### AREAS OF INTEREST | ÁREAS DE INTERESSE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-5B21B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software%20Architecture-4C1D95?style=for-the-badge" />
+
+</div>
+
+<div align="center">
+
+*Technology is a tool. Understanding how to use it is the real skill.*
+
+*A tecnologia é uma ferramenta. Entender como utilizá-la é a verdadeira habilidade.*
+
+</div>
+
+HTML
 04 · CURRENTLY LEARNING | APRENDIZADO ATUAL
 
 <table>
