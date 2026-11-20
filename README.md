@@ -1,13 +1,13 @@
+
 <p align="center">
   <img
     src="./assets/banner.png"
-    alt="Igor Silva"
+    alt="Igor Silva - Personal Banner"
     width="100%"
   />
 </p>
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,45:21143A,100:6D28D9&height=190&section=header&text=IGOR%20SILVA&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI%20%26%20AUTOMATION&descSize=13&descAlignY=69&animation=fadeIn" />
+<div align="center">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=COMPUTER+SCIENCE+STUDENT;SOFTWARE+DEVELOPMENT;ARTIFICIAL+INTELLIGENCE+%26+AUTOMATION;BUILDING+IDEAS+INTO+SYSTEMS" alt="Typing introduction" />
@@ -23,6 +23,7 @@
 </div>
 
 ---
+
 
 ## 01 · PROFILE | PERFIL
 
