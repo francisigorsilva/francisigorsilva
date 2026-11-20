@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Igor Silva"
+    width="100%"
+  />
+</p>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B14,45:21143A,100:6D28D9&height=190&section=header&text=IGOR%20SILVA&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI%20%26%20AUTOMATION&descSize=13&descAlignY=69&animation=fadeIn" />
