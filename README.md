@@ -50,8 +50,6 @@ Sou estudante de Ciência da Computação, interessado em desenvolvimento de sof
 
 <div align="center">
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-5B21B6?style=for-the-badge"/>
