@@ -145,9 +145,20 @@ Projeto de automação de processos para organizar solicitações de serviços g
 | Bingo Generator | Automated bingo card generation · Geração automatizada de cartelas de bingo | Local development |
 | YouTube Automation | Content creation workflow automation · Automação de processos de criação de conteúdo | Local development |
 
+### PRIVATE & INSTITUTIONAL INITIATIVES | INICIATIVAS PRIVADAS E INSTITUCIONAIS
+
+| Initiative | Focus | Availability |
+|:--|:--|:--|
+| Chronoa Tec | Technology initiative and organizational development · Iniciativa de tecnologia e desenvolvimento organizacional | Private / in development |
+| NEXUS AI | AI coordination, agent architecture and knowledge systems · Coordenação de IA, arquitetura de agentes e sistemas de conhecimento | Private planning |
+
+These initiatives are presented for context only; no public source repository or deployable product is currently linked here.
+
+Essas iniciativas são apresentadas apenas como contexto; não há atualmente um repositório público de código-fonte ou produto implantado vinculado a elas.
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/ONLY-IGOR-CLOUD-IS-AVAILABLE-AS-A-PUBLIC-PROJECT-REPOSITORY-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-2-238636?style=flat-square"/>
 
 </div>
 
